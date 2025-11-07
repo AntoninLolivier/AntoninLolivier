@@ -47,4 +47,4 @@ A fully type-safe, fluent .NET builder for the Google Static Maps API (+1000 dow
 
 * 💼 Freelance: available for collaborations
 * 🌐 [LinkedIn](#) / [Malt](#)
-* ✉️ [antonin@example.com](mailto:antonin@example.com)
+* ✉️ [lolivierantonin@gmail.com](mailto:lolivierantonin@gmail.com)
