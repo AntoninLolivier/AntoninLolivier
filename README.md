@@ -39,7 +39,7 @@ The app features user authentication, push notifications, in-app purchases, and 
 ## 🌍 Open-Source
 
 Author of [Gravity.GoogleMaps.StaticMapBuilder](https://www.nuget.org/packages/Gravity.GoogleMaps.StaticMapBuilder)
-A fully type-safe, fluent .NET builder for the Google Static Maps API (+800 downloads).
+A fully type-safe, fluent .NET builder for the Google Static Maps API (+1000 downloads).
 
 ---
 
